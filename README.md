@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá, eu sou a Ana Carolina, mas pode me chamar de Carol! 😄
 
-<!--
-**cacrisolforlin/cacrisolforlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍💻 Hoje eu trabalho com geoprocessamento aplicando linguagens de programação Python, R, SQL e HTML
+- 👩‍🎓 Sou Geógrafa formada pela Universidade Federal de Alfenas 
+- 🤓 Estou estudando Python e R
+- 🎯 Meu objetivo é atuar com programação, associadas ou não, as geotecnologias 
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img align="center" height="40" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" target="_blanck"></a>
+ <img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" target="_blanck"></a>
+ <img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2236/PNG/512/file_sql_format_type_icon_134681.png" target="_blanck"></a>
+ <img align="center" height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" target="_blanck"></a>
+</div>
+ 
+ ##
+
+<div>
+<a href="https://www.linkedin.com/in/cacrisolforlin" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
+  <a href="mailto: cacrisolforlin@gmail.com" target="_blanck"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
+  
+</div>
+ 
+<div>
+<img align="center" height="40" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" target="_blanck"></a>
+
+</div>
