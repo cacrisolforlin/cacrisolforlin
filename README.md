@@ -15,9 +15,6 @@
 
  <img align="center" height="40" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" target="_blanck"></a>
  <img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" target="_blanck"></a>
- <img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2236/PNG/512/file_sql_format_type_icon_134681.png" target="_blanck"></a>
- <img align="center" height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" target="_blanck"></a>
-
 </div>
 
 ##
