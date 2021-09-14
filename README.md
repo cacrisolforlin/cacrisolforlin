@@ -1,6 +1,6 @@
 ### Olá, eu sou a Ana Carolina, mas pode me chamar de Carol! 😄
 
-- 👩‍💻 Hoje eu trabalho com geoprocessamento aplicando linguagens de programação Python, R, SQL e HTML
+- 👩‍💻 Hoje eu trabalho com geoprocessamento aplicando linguagens de programação Python e HTML
 - 👩‍🎓 Sou Geógrafa formada pela Universidade Federal de Alfenas 
 - 🤓 Estou estudando Python e R
 - 🎯 Meu objetivo é atuar com programação, associadas ou não, as geotecnologias 
